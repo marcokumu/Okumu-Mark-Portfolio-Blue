@@ -1,0 +1,429 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Roboto:wght@500&display=swap");
+main {
+  background: #191765;
+  width: 375px;
+  height: 5600px;
+}
+
+.menu {
+  position: relative;
+  right: -200px;
+  top: 35px;
+}
+.okumu {
+  position: relative;
+  width: 81px;
+  height: 55px;
+  left: 15px;
+  top: 19px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  text-decoration: none;
+  color: aliceblue;
+}
+.intro {
+  position: relative;
+  margin-top: 70px;
+}
+h1 {
+  position: relative;
+  width: 327px;
+  height: 55px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  color: #7d73fc;
+  left: 10px;
+  text-align: center;
+  margin: px;
+  top: -180px;
+}
+h2 {
+  position: relative;
+  width: 327px;
+  height: 87px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+  left: 10px;
+  margin-top: -170px;
+  align-items: center;
+  text-align: center;
+
+  color: #edecff;
+}
+p {
+  position: relative;
+  width: 327px;
+  height: 170px;
+  left: 15px;
+  top: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #c8c8d4;
+}
+.solidline {
+  position: relative;
+  height: 0px;
+  width: 315px;
+  left: -11px;
+  right: 0px;
+  top: 10px;
+
+  border: 1px solid #646369;
+}
+.language {
+  position: relative;
+  width: 107px;
+  height: 16px;
+  left: 35px;
+  top: 35px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  color: #9490ff;
+}
+ul {
+  position: relative;
+  list-style: none;
+  left: -40px;
+  color: #c8c8d4;
+  line-height: 30px;
+  font-size: 15px;
+}
+.frameworks {
+  position: relative;
+  width: 73px;
+  height: 16px;
+  left: 170px;
+  top: 7px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  color: #9490ff;
+}
+.skills {
+  position: relative;
+  width: 107px;
+  height: 16px;
+  left: 35px;
+  top: 250px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  color: #9490ff;
+}
+.solidline1 {
+  position: relative;
+  height: 0px;
+  width: 315px;
+  left: -8px;
+  right: 0px;
+  top: 440px;
+
+  border: 1px solid #646369;
+}
+.solidline2 {
+  position: relative;
+  height: 0px;
+  width: 315px;
+  left: -5px;
+  right: 0px;
+  top: 36em;
+
+  border: 1px solid #646369;
+}
+/* .solidline2 {
+  position: relative;
+  height: 0px;
+  width: 327px;
+  left: -11px;
+  right: 0px;
+  top: 10px;
+
+  border: 1px solid #646369;
+} */
+
+.work {
+  position: relative;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: none;
+  color: #a2a3ae;
+  top: 500px;
+  left: 7.5em;
+}
+h4 {
+  position: relative;
+  width: 327px;
+  height: 104px;
+  left: 24px;
+  top: 14em;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 52px;
+
+  display: flex;
+  align-items: center;
+  color: #9490ff;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 24px 0px;
+}
+.contact {
+  position: relative;
+  top: 60em;
+}
+.projectimg {
+  position: relative;
+  left: 24px;
+  top: 39em;
+  width: 315px;
+}
+.p1 {
+  width: 327px;
+  height: 204px;
+  left: 19px;
+  top: 32em;
+
+  color: #dcdce8;
+
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+h5 {
+  position: relative;
+  height: 105px;
+  width: 327px;
+  left: 20px;
+  top: 20em;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 24px 0px;
+}
+.h-languages {
+  position: relative;
+  text-decoration: none;
+  display: flex;
+  top: 40em;
+}
+.css,
+.html,
+.bootstrap,
+.ruby {
+  text-decoration: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height, or 133% */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 0px;
+  padding: 1.5em;
+  border-right: 1px #646369;
+  padding-top: 0.5em;
+}
+.css {
+  border-right: 1px solid #555555;
+  height: 4px;
+}
+.html {
+  border-right: 1px solid #555555;
+  height: 4px;
+}
+.bootstrap {
+  border-right: 1px solid #555555;
+  height: 4px;
+}
+.seeproject {
+  position: relative;
+  left: 24px;
+  top: 41em;
+}
+.recentwork {
+  position: relative;
+  margin: 70px 0px;
+  top: -4em;
+}
+.ellipse1 {
+  position: relative;
+  filter: blur(50px);
+
+  height: 160px;
+  width: 160px;
+  left: -140px;
+  top: 10px;
+}
+.socials {
+  display: flex;
+  position: relative;
+  top: 30em;
+  align-content: center;
+}
+.socialmedia {
+  display: flex;
+  left: 30px;
+}
+.github,
+.linkedin,
+.angelist,
+.twitter,
+.m {
+  padding-left: 20px;
+}
+
+.arrow {
+  position: relative;
+  top: 31.5em;
+  left: 9em;
+}
+h6 {
+  position: relative;
+  width: 327px;
+  height: 35px;
+  left: 90px;
+  top: -9em;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+
+  color: #9390ff;
+}
+.p2 {
+  position: relative;
+  width: 327px;
+  height: 105px;
+  left: 22px;
+  top: -20em;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: center;
+
+  color: #f5f5ff;
+}
+#text {
+  position: relative;
+  width: 316px;
+  height: 48px;
+  top: -22em;
+  left: 22px;
+}
+#email {
+  position: relative;
+  width: 316px;
+  height: 48px;
+  top: -20em;
+  left: 22px;
+}
+#entertext {
+  position: relative;
+  width: 316px;
+  height: 148px;
+  top: -18em;
+  left: 22px;
+}
+.seeproject1 {
+  position: relative;
+  top: -13em;
+  left: 8.5em;
+}
+.solidline3 {
+  position: relative;
+  height: 0px;
+  width: 375px;
+  left: -1.5px;
+  right: 0px;
+  top: -10em;
+
+  border: 1px solid #3a3837;
+}
+.github1,
+.linkedin1,
+.angelist1,
+.twitter1,
+.m1 {
+  padding-left: 20px;
+}
+
+.socials1 {
+  position: relative;
+  top: -9em;
+  left: 65px;
+}
+.email {
+  position: relative;
+  text-decoration: none;
+  left: 1.5em;
+  color: #ebebff;
+  font-family: Roboto;
+  top: 1em;
+}
+::placeholder {
+  position: relative;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  left: 1em;
+}
